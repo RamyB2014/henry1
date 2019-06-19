@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalConceptSet
+  SavedSource="file:///C:/Users/rallahwerdy/Documents/My Translated Projects/NewProject156.liprjf/Target/Output/rallahwerdy/Temporary/GlobalConceptSet v.6.catapultconceptset">
+  <Concepts />
+  <SourceUrls>
+    <Url
+      Source="New Topic - Copy.htm" />
+    <Url
+      Source="New Topic - Copy.htm.skl" />
+    <Url
+      Source="New Topic - Copy_ar.htm.xlf" />
+    <Url
+      Source="New Topic - Copy_es.htm.xlf" />
+    <Url
+      Source="New Topic.htm" />
+    <Url
+      Source="New Topic.htm.skl" />
+    <Url
+      Source="New Topic_ar.htm.xlf" />
+    <Url
+      Source="New Topic_es.htm.xlf" />
+    <Url
+      Source="Topic.htm" />
+    <Url
+      Source="Topic.htm.skl" />
+    <Url
+      Source="Topic_ar.htm.xlf" />
+    <Url
+      Source="Topic_es.htm.xlf" />
+    <Url
+      Source="Resources/Images/NoProps.PNG" />
+    <Url
+      Source="Resources/Images/Props nothing to translate.png" />
+    <Url
+      Source="Resources/Images/Props nothing to translate.png.props.skl" />
+    <Url
+      Source="Resources/Images/Props nothing to translate_ar.png.xlf" />
+    <Url
+      Source="Resources/Images/Props nothing to translate_es.png.xlf" />
+    <Url
+      Source="Resources/Images/Props with text.png" />
+    <Url
+      Source="Resources/Images/Props with text.png.props.skl" />
+    <Url
+      Source="Resources/Images/Props with text_ar.png.xlf" />
+    <Url
+      Source="Resources/Images/Props with text_es.png.xlf" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl.skl" />
+    <Url
+      Source="Resources/PageLayouts/Default_ar.flpgl.xlf" />
+    <Url
+      Source="Resources/PageLayouts/Default_es.flpgl.xlf" />
+    <Url
+      Source="Resources/Stylesheets/Modern.css" />
+    <Url
+      Source="Resources/Stylesheets/Modern.css.skl" />
+    <Url
+      Source="Resources/Stylesheets/Modern_ar.css.xlf" />
+    <Url
+      Source="Resources/Stylesheets/Modern_es.css.xlf" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css.skl" />
+    <Url
+      Source="Resources/Stylesheets/Styles_ar.css.xlf" />
+    <Url
+      Source="Resources/Stylesheets/Styles_es.css.xlf" />
+  </SourceUrls>
+  <UsedUrls />
+  <UsedConceptControlUrls />
+</CatapultGlobalConceptSet>
